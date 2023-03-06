@@ -2,6 +2,8 @@ This Android Application demonstrates the usage of a RecycleView in Android Stud
 
 [LINK TO THE MOBILE APP RUNNING](https://drive.google.com/file/d/1LHlgNoU1gMzkwJP4lcVgIDO4j-nd4HBD/view?usp=share_link)
 
+
+
 Images of the app:
 
 ![image](https://user-images.githubusercontent.com/114548524/223005204-00ba2bc7-7966-470f-8258-fce2bc4594de.png)
